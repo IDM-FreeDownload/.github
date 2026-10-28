@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/IDM-FreeDownload/.github/main/profile/banner-v2.jpg" alt="Internet Download Manager for Windows" width="100%">
+<img src="https://raw.githubusercontent.com/IDM-FreeDownload/.github/main/profile/banner-v3.jpg" alt="Internet Download Manager for Windows" width="100%">
 
 # Internet Download Manager
 
